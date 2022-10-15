@@ -1,18 +1,23 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class Quest : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+    public Image questItem;
+    public Color completedColor;
+    public Color activeColor;
+
+    private void OnTriggerEnter(Collider other)
     {
-        
+        if (other.gameObject.CompareTag("items"))
+            FinishQuest();
+        Debug.Log("Triggered");
     }
 
-    // Update is called once per frame
-    void Update()
+    void FinishQuest()
     {
-        
+        questItem.color = completedColor;
     }
 }
