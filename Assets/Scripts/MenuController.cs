@@ -5,8 +5,8 @@ using UnityEngine.SceneManagement;
 
 public class MenuController : MonoBehaviour
 {
-   public void StartButton()
+   public void LoadScene(string sceneName)
     {
-        SceneManager.LoadScene("TrainingScene");
+        SceneManager.LoadScene(sceneName);
     }
 }
