@@ -8,16 +8,40 @@ public class Quest : MonoBehaviour
     public Image questItem;
     public Color completedColor;
     public Color activeColor;
+    public Color currentColor;
+    //List<Image> list = new List<Image>();
 
+    public Quest[] allQuests;
+   
+    
+    private void Start()
+    {
+        allQuests = FindObjectsOfType<Quest>();
+      
+    }
     private void OnTriggerEnter(Collider other)
     {
-        if (other.gameObject.CompareTag("items"))
+        if (other.gameObject.CompareTag("cart"))
             FinishQuest();
-        Debug.Log("Triggered");
     }
 
     void FinishQuest()
     {
+        questItem.GetComponent<Button>().interactable = false;
+        currentColor = completedColor;
         questItem.color = completedColor;
+        
     }
+
+    public void OnQuestClick()
+    { 
+        foreach (Quest quest in allQuests)
+        {
+            quest.questItem.color = questItem.color;
+        }
+    questItem.color = activeColor;
+
+    }
+
+
 }
