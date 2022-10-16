@@ -1,0 +1,11 @@
+Model Information:
+* title:	Diapers - Huggers - Small
+* source:	https://sketchfab.com/3d-models/diapers-huggers-small-9895b67341ca48a49db9cd1a3ac1ecbb
+* author:	MW (https://sketchfab.com/mw3dart)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Diapers - Huggers - Small" (https://sketchfab.com/3d-models/diapers-huggers-small-9895b67341ca48a49db9cd1a3ac1ecbb) by MW (https://sketchfab.com/mw3dart) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

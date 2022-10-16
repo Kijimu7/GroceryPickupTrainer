@@ -1,0 +1,11 @@
+Model Information:
+* title:	céréales+corn+flakes+cora
+* source:	https://sketchfab.com/3d-models/cerealescornflakescora-f36fba35de5e4e2fb58940420f29a951
+* author:	eyes360vr (https://sketchfab.com/eyes360vr)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "céréales+corn+flakes+cora" (https://sketchfab.com/3d-models/cerealescornflakescora-f36fba35de5e4e2fb58940420f29a951) by eyes360vr (https://sketchfab.com/eyes360vr) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

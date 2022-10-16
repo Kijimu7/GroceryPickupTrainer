@@ -1,0 +1,11 @@
+Model Information:
+* title:	SoDa Can NHM
+* source:	https://sketchfab.com/3d-models/soda-can-nhm-bb29c9da29c1416098a41e6b69466c6e
+* author:	NgoHongMinhVN (https://sketchfab.com/ngohongminh1985)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "SoDa Can NHM" (https://sketchfab.com/3d-models/soda-can-nhm-bb29c9da29c1416098a41e6b69466c6e) by NgoHongMinhVN (https://sketchfab.com/ngohongminh1985) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Hot Rockets - Chicken, Broccoli & Cheddar
+* source:	https://sketchfab.com/3d-models/hot-rockets-chicken-broccoli-cheddar-98707e8a73a84120a7997a519315d9af
+* author:	MW (https://sketchfab.com/mw3dart)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Hot Rockets - Chicken, Broccoli & Cheddar" (https://sketchfab.com/3d-models/hot-rockets-chicken-broccoli-cheddar-98707e8a73a84120a7997a519315d9af) by MW (https://sketchfab.com/mw3dart) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lotion - Johanson's Sweet Apple
+* source:	https://sketchfab.com/3d-models/lotion-johansons-sweet-apple-50e31d461023475796a281239d7a0c0c
+* author:	MW (https://sketchfab.com/mw3dart)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lotion - Johanson's Sweet Apple" (https://sketchfab.com/3d-models/lotion-johansons-sweet-apple-50e31d461023475796a281239d7a0c0c) by MW (https://sketchfab.com/mw3dart) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
