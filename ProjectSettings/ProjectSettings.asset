@@ -193,6 +193,14 @@ PlayerSettings:
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: a5de09e59c0722d459e0becad14b2679, type: 2}
+  - {fileID: 0}
+  - {fileID: 1741112163324247716, guid: 90411ef9c4af5504faffef4f69e43552, type: 2}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -211,6 +219,7 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
+    Android: com.DefaultCompany.GroceryPUTrainer
     Standalone: com.DefaultCompany.GroceryPUTrainer
   buildNumber:
     Standalone: 0
@@ -218,8 +227,8 @@ PlayerSettings:
     tvOS: 0
   overrideDefaultApplicationIdentifier: 0
   AndroidBundleVersionCode: 1
-  AndroidMinSdkVersion: 23
-  AndroidTargetSdkVersion: 0
+  AndroidMinSdkVersion: 19
+  AndroidTargetSdkVersion: 26
   AndroidPreferredInstallLocation: 0
   aotOptions: 
   stripEngineCode: 1
